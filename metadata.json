@@ -1,0 +1,7 @@
+{
+  "name": "Emby Dynamic Cover Creator",
+  "description": "A professional tool for creating dynamic and AI-enhanced folder covers for Emby media servers. Supports AI image generation, metadata brainstorming, and previewing in an Emby-style UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
